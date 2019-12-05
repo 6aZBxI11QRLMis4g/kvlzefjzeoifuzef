@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title> Kroatie-vakantie</title>
+<link>http://www.kroatie-vakantie.eu</link>
+<description>Één passende accommodatie voor vakantie in Kroatie</description>
+<language>en-us</language>
+<generator>Estate Agent Improved with PHP/5.3.29</generator>
+<image>
+	<url>http://www.kroatie-vakantie.eu/components/com_estateagent/pictures/gui/ealogo_small.png</url>
+	<title>Kroatie-vakantie</title>
+	<link>http://www.kroatie-vakantie.eu</link>
+</image>
+<item>
+	<title>Pension Comfor Lovac</title>
+    <link>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=164</link>
+    <description>Pension Comfor Lovac wordt gerund door een Kroatisch-Nederlands echtpaar. Het heeft 8 ruime 2-persoonskamers, allen met TV, airco en badkamer met douche. Het pension staat bekend om de keuken met l...</description>
+    <guid>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=164</guid>
+</item>
+	<item>
+	<title>Hotel Slavija -  Split</title>
+    <link>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=160</link>
+    <description>Hotel Slavija*** 
+&nbsp;Een bijzondere ervaring om in Hotel Slavija te overnachten, het is gelegen&nbsp;in het Diocletianus Paleis, en omdat het het oudste hotel van Split is.</description>
+    <guid>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=160</guid>
+</item>
+	<item>
+	<title></title>
+    <link>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=159</link>
+    <description>Vliegen naar Kroatië - Vliegvakantie</description>
+    <guid>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=159</guid>
+</item>
+	<item>
+	<title></title>
+    <link>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=158</link>
+    <description>Autovakantie</description>
+    <guid>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=158</guid>
+</item>
+	<item>
+	<title></title>
+    <link>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=157</link>
+    <description>Busreis naar Kroatië 
+- Istrië met ID Riva&nbsp;
+&nbsp;</description>
+    <guid>http://www.kroatie-vakantie.eu/index.php?option=com_estateagent&amp;Itemid=303&amp;act=object&amp;task=showEO&amp;id=157</guid>
+</item>
+	
+</channel>
+</rss>

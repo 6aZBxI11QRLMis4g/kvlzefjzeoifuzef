@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+			<title>Kroatie-vakantie - Reserveren</title>
+<link rel="stylesheet" href="templates/kroatievakantie/css/template_css.css" type="text/css" />
+			<link rel="stylesheet" href="templates/kroatievakantie/css/template_css.css" type="text/css" />
+			<link rel="shortcut icon" href="http://www.kroatie-vakantie.eu/images/favicon.ico" />
+			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+			<meta name="robots" content="noindex, nofollow" />
+					</head>
+		<body class="contentpane">
+					<script language="javascript" type="text/javascript">
+		function submitbutton() {
+			var form = document.frontendForm;
+			// do field validation
+			if (form.email.value == "" || form.youremail.value == "") {
+				alert( 'U moet geldige e-mailadressen opgeven.' );
+				return false;
+			}
+			return true;
+		}
+		</script>
+
+		<form action="index2.php?option=com_content&amp;task=emailsend" name="frontendForm" method="post" onSubmit="return submitbutton();">
+		<table cellspacing="0" cellpadding="0" border="0">
+		<tr>
+			<td colspan="2">
+			E-mail dit naar een vriend.			</td>
+		</tr>
+		<tr>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="130">
+			E-mailadres van uw vriend:			</td>
+			<td>
+			<input type="text" name="email" class="inputbox" size="25" />
+			</td>
+		</tr>
+		<tr>
+			<td height="27">
+			Uw naam:			</td>
+			<td>
+			<input type="text" name="yourname" class="inputbox" size="25" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+			Uw e-mail:			</td>
+			<td>
+			<input type="text" name="youremail" class="inputbox" size="25" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+			 Onderwerp:			</td>
+			<td>
+			<input type="text" name="subject" class="inputbox" maxlength="100" size="40" />
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<input type="submit" name="submit" class="button" value="E-mail verzenden" />
+			&nbsp;&nbsp;
+			<input type="button" name="cancel" value="Annuleren" class="button" onclick="window.close();" />
+			</td>
+		</tr>
+		</table>
+
+		<input type="hidden" name="id" value="137" />
+		<input type="hidden" name="itemid" value="587" />
+		<input type="hidden" name="jb9423da5117e9b105afff15dc05909a8" value="1" />
+		</form>
+				</body>
+	</html>
+	

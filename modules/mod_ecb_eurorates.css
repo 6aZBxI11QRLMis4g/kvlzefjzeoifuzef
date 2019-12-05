@@ -1,0 +1,38 @@
+.th1 {
+	text-align: left;
+}
+
+.th2 {
+	text-align: right;
+}
+
+.td1 {
+	text-align: left;
+}
+
+.td2 {
+	text-align: right;
+}
+
+.daterw {
+	text-align: center;
+}
+
+table.ecbtable {
+width:98%;
+}
+
+table.ecbtable th{
+	padding: 2px;
+	background: #DFE5EC;
+	color: #646E7B;
+	text-indent: 2px;
+	font-weight: bold;
+}
+table.ecbtable td{
+	padding: 2px;
+	background: #FFFFFF;
+	color: #646E7B;
+	text-indent: 5px;
+}
+

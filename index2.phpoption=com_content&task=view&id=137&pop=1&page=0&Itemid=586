@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+			<title>Kroatie-vakantie - Reserveren</title>
+<meta name="title" content="Reserveren" />
+<meta name="author" content="Yvonne" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<style>/* Styles for the img box */
+div.mtImgBoxStyle {
+ margin-left:5px;
+ margin-right:5px; 
+} 
+/* Styles for the caption */
+div.mtCapStyle {
+ font-weight: bold;
+ color: black;
+ background-color: #ddd;
+ padding: 2px;
+ text-align:center;
+ overflow:hidden; 
+}</style>
+			<link rel="stylesheet" href="templates/kroatievakantie/css/template_css.css" type="text/css" />
+			<link rel="shortcut icon" href="http://www.kroatie-vakantie.eu/images/favicon.ico" />
+			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+			<meta name="robots" content="noindex, nofollow" />
+					</head>
+		<body class="contentpane">
+				
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					Reserveren									</td>
+								<script language="javascript" type="text/javascript">
+				<!--
+				document.write('<td align="right" width="100%" class="buttonheading">');
+				document.write('<a href="#" onclick="javascript:window.print(); return false;" title="Afdrukken">');
+				document.write('<img src="http://www.kroatie-vakantie.eu/images/M_images/printButton.png"  alt="Afdrukken" name="Afdrukken" align="middle" border="0" />');
+				document.write('</a>');
+				document.write('</td>');
+				//-->
+				</script>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 Geschreven door Yvonne					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+						<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Sunday, 11 December 2011				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				
+<SCRIPT src="http://www.b2b-booking.com/JavaScript/B2B_AComponent.js" mce_src="http://www.b2b-booking.com/JavaScript/B2B_AComponent.js"></SCRIPT>
+<IFRAME style="MARGIN: 0px" id=UAMainFrame height=2150 marginHeight=0 src="http://www.b2b-booking.com/services/b2b/webservices/ObjectList.php?sid=360" frameBorder=0 width=535 name=UAMainFrame marginWidth=0 mce_src="http://www.b2b-booking.com/services/b2b/webservices/ObjectList.php?sid=360" bordercolor="#FFFFFF"></IFRAME>			</td>
+		</tr>
+					<tr>
+				<td colspan="2" align="left" class="modifydate">
+					Gewijzigd op ( Sunday, 11 March 2012 )
+				</td>
+			</tr>
+					</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<script language="javascript" type="text/javascript">
+			<!--
+			document.write('<div align="center" style="margin-top: 30px; margin-bottom: 30px;">');
+			document.write('<a href="#" onclick="javascript:window.close();"><span class="small">Venster sluiten</span></a>');
+			document.write('</div>');
+			//-->
+			</script>
+					</body>
+	</html>
+	

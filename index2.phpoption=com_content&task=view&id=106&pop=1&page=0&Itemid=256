@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+			<title>Kroatie-vakantie - Musea in Kroatie</title>
+<meta name="title" content="Musea in Kroatie" />
+<meta name="author" content="djordje" />
+<meta name="description" content="Verzameling van musea in Kroatie" />
+<meta name="keywords" content="musea, Kroatie" />
+<style>/* Styles for the img box */
+div.mtImgBoxStyle {
+ margin-left:5px;
+ margin-right:5px; 
+} 
+/* Styles for the caption */
+div.mtCapStyle {
+ font-weight: bold;
+ color: black;
+ background-color: #ddd;
+ padding: 2px;
+ text-align:center;
+ overflow:hidden; 
+}</style>
+<script language="JavaScript" src="http://www.kroatie-vakantie.eu/mambots/content/multithumb/multithumb.js" type="text/javascript"></script>
+			<link rel="stylesheet" href="templates/kroatievakantie/css/template_css.css" type="text/css" />
+			<link rel="shortcut icon" href="http://www.kroatie-vakantie.eu/images/favicon.ico" />
+			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+			<meta name="robots" content="noindex, nofollow" />
+					</head>
+		<body class="contentpane">
+				
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					Musea in Kroatie									</td>
+								<script language="javascript" type="text/javascript">
+				<!--
+				document.write('<td align="right" width="100%" class="buttonheading">');
+				document.write('<a href="#" onclick="javascript:window.print(); return false;" title="Afdrukken">');
+				document.write('<img src="http://www.kroatie-vakantie.eu/images/M_images/printButton.png"  alt="Afdrukken" name="Afdrukken" align="middle" border="0" />');
+				document.write('</a>');
+				document.write('</td>');
+				//-->
+				</script>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+					<tr>
+				<td width="70%" align="left" valign="top" colspan="2">
+					<span class="small">
+						 Geschreven door djordje					</span>
+					&nbsp;&nbsp;
+				</td>
+			</tr>
+						<tr>
+				<td valign="top" colspan="2" class="createdate">
+					Tuesday, 23 October 2007				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+				<p>Hier vindt u e<font size="2">en verzameling van&nbsp;musea in heel Kroatie.</font> Musea zijn per regio gesorteerd. Kroatie is verdeeld in 20 zupanije (regio&#39;s). Dit zijn administratieve regio&#39;s, die vergeleken kunnen worden met provincies. Op foto kunt u regio&#39;s zien.</p><p align="center"><a href="javascript:thumbWindow('http://www.kroatie-vakantie.eu/images/stories/Provintie/provintie1.jpg','Image',500,502,1,0);"><img class='multithumb'  src="http://www.kroatie-vakantie.eu/mambots/content/multithumb/thumbs/150.150._home_kroatie_public_html_images_stories_Provintie_provintie1.jpg"width="149" height="150"  hspace='6' alt='Image' title='Image' border='' /></a></p><ol><li><strong>Zagreba&#269;ka </strong></li><li><strong>Krapinsko-zagorska </strong></li><li><strong>Sisa&#269;ko-moslava&#269;ka </strong></li><li><strong>Karlova&#269;ka </strong></li><li><strong>Varaždinska </strong></li><li><strong>Koprivni&#269;ko-križeva&#269;ka </strong></li><li><strong>Bjelovarsko-bilogorska </strong></li><li><strong>Primorsko-goranska </strong></li><li><strong>Li&#269;ko-senjska </strong></li><li><strong>Viroviti&#269;ko-podravska </strong></li><li><strong>Pože&scaron;ko-slavonska </strong></li><li><strong>Brodsko-posavska </strong></li><li><strong>Zadarska </strong></li><li><strong>Osje&#269;ko-baranjska </strong></li><li><strong>&Scaron;ibensko-kninska </strong></li><li><strong>Vukovarsko-srijemska </strong></li><li><strong>Splitsko-dalmatinska </strong></li><li><strong>Istarska </strong></li><li><strong>Dubrova&#269;ko-neretvanska </strong></li><li><strong>Me&#273;imurska </strong></li><li><strong>Stad Zagreb</strong></li></ol><!-- Saved in parser cache with key shwiki:pcache:idhash:10349-0!1!0!!sh!2 and timestamp 20071024134625 -->			</td>
+		</tr>
+					<tr>
+				<td colspan="2" align="left" class="modifydate">
+					Gewijzigd op ( Thursday, 25 October 2007 )
+				</td>
+			</tr>
+					</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<script language="javascript" type="text/javascript">
+			<!--
+			document.write('<div align="center" style="margin-top: 30px; margin-bottom: 30px;">');
+			document.write('<a href="#" onclick="javascript:window.close();"><span class="small">Venster sluiten</span></a>');
+			document.write('</div>');
+			//-->
+			</script>
+					</body>
+	</html>
+	
