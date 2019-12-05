@@ -44,7 +44,24 @@ div.mtCapStyle {
 -->
 </style>
 <meta name="google-site-verification" content="PcH8Ir71Iis-3IG57VzYj9FtzG_v7WIHdbg_w22Un38" />
-</head>
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.kroatie-vakantie.eu"]);
+  _paq.push(["setDomains", ["*.kroatie-vakantie.eu","*.kroatie-vakantie.eu"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://adsrv.innocraft.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '46']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.innocraft.cloud/adsrv.innocraft.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://adsrv.innocraft.cloud/matomo.php?idsite=46&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code --></head>
 
 <body>
 <div>
@@ -264,7 +281,9 @@ div.mtCapStyle {
 <P align=center><a href="javascript:thumbWindow('http://www.kroatie-vakantie.eu/images/stories/Home/kroatie more.jpg','Image',700,525,1,0);"><img class='multithumb'  src="http://www.kroatie-vakantie.eu/mambots/content/multithumb/thumbs/150.150._home_kroatie_public_html_images_stories_Home_kroatie more.jpg"width="150" height="112"  hspace='6' alt='Image' title='Image' border='' /></a> <a href="javascript:thumbWindow('http://www.kroatie-vakantie.eu/images/stories/Home/strand 1.jpg','Image',700,525,1,0);"><img class='multithumb'  src="http://www.kroatie-vakantie.eu/mambots/content/multithumb/thumbs/150.150._home_kroatie_public_html_images_stories_Home_strand 1.jpg"width="150" height="112"  hspace='6' alt='Image' title='Image' border='' /></a> <a href="javascript:thumbWindow('http://www.kroatie-vakantie.eu/images/stories/Home/strand.jpg','Image',700,525,1,0);"><img class='multithumb'  src="http://www.kroatie-vakantie.eu/mambots/content/multithumb/thumbs/150.150._home_kroatie_public_html_images_stories_Home_strand.jpg"width="150" height="112"  hspace='6' alt='Image' title='Image' border='' /></a></P>
 <P align=left>We werken samen met <STRONG>Uniline</STRONG> uit Pula. Uniline is een gerenommeerd bedrijf met circa 150 werknemers en bestaat sinds 1996. Het hoofdkantoor is in Pula, tevens kantoren in Medulin, Rovinj, Pore&#269;, Rabac, Opatija, Zadar, Split, Dubrovnik, Zagreb, Ljubljana and Sarajevo. Via het online boekingssysteem kunt u meteen kijken of de gewenste accommodatie nog vrij is, tevens is er een ruim aanbod aan particuliere appartementen en woningen. Uniline is your partner in Croatia!<BR></P>
 <SCRIPT src="http://www.b2b-booking.com/JavaScript/B2B_AComponent.js"></SCRIPT>
-<IFRAME style="MARGIN: 0px" id=UAMainFrame height=2150 marginHeight=0 src="http://www.b2b-booking.com/services/b2b/webservices/ObjectList.php?sid=360" frameBorder=0 width=535 name=UAMainFrame marginWidth=0 bordercolor="#FFFFFF"></IFRAME><P><FONT color=#000000><A href="http://kroatie-vakantie.eu/cgi-sys/mchat.cgi?channel=kroatie-vakantie.eu" mce_href="http://kroatie-vakantie.eu/cgi-sys/mchat.cgi?channel=kroatie-vakantie.eu"></A></FONT></P>			</td>
+<IFRAME style="MARGIN: 0px" id=UAMainFrame height=2150 marginHeight=0 src="http://www.b2b-booking.com/services/b2b/webservices/ObjectList.php?sid=360" frameBorder=0 width=535 name=UAMainFrame marginWidth=0 bordercolor="#FFFFFF"></IFRAME>
+
+<P><FONT color=#000000><A href="http://kroatie-vakantie.eu/cgi-sys/mchat.cgi?channel=kroatie-vakantie.eu" mce_href="http://kroatie-vakantie.eu/cgi-sys/mchat.cgi?channel=kroatie-vakantie.eu"></A></FONT></P>			</td>
 		</tr>
 				</table>
 

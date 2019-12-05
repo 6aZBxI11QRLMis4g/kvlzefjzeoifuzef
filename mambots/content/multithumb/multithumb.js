@@ -30,7 +30,24 @@ function thumbWindow(mypage, myname, w, h,fit_to_screen, imgtoolbar) {
   	win.document.write("function click() { window.close(); } ");  // bei click  schliessen
   	win.document.write("document.onmousedown=click ");
   	win.document.write('</scr' + 'ipt>');
-	win.document.write('<title>'+myname+'</title></head>');
+	win.document.write('<title>'+myname+'</title><!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.kroatie-vakantie.eu"]);
+  _paq.push(["setDomains", ["*.kroatie-vakantie.eu","*.kroatie-vakantie.eu"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://adsrv.innocraft.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '46']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.innocraft.cloud/adsrv.innocraft.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://adsrv.innocraft.cloud/matomo.php?idsite=46&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code --></head>');
 	win.document.write('<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onBlur="window.close()">');
 
 if (fit_to_screen) {
