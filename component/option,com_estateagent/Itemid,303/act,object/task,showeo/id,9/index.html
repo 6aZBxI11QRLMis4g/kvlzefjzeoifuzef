@@ -270,6 +270,278 @@ kroatie-vakantie </a></td>
 			</tr>
 					<tr>
 			<td>
+			<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+<head>
+
+
+
+<title>kroatie-vakantie - EA Improved :: Camping Park Umag</title>
+<meta name="description" content="Camping Park Umag ie een vier sterren camping." />
+<meta name="keywords" content="Camping park Umag, Istrie, camping kroatie" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+<link rel="alternate" type="application/rss+xml" title="EA Improved RSS Feed" href="http://www.kroatie-vakantie.eu/component/option,com_estateagent/Itemid,303/act,rss/"/>
+<link rel="stylesheet" href="http://www.kroatie-vakantie.eu/components/com_estateagent/templates/improved/gallery/thickbox.css" type="text/css" media="screen" />
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAAbiBtIk1kuCDTTqeka1DVhR6CBAZFUjKMR2Jue5q2To4uHUSIBRwEIqB6n5lTsseAtGxTVD8LEZFxg" type="text/javascript"></script>
+<script type="text/javascript">
+//------------------------------------------
+// GoogleMap api written for Estate Aagent Improved
+// 2007 Manos Orfanoudakis
+// http://www.eaimproved.eu
+// Published under GNU GPL
+//------------------------------------------
+//<![CDATA[
+var eagmap;
+var geocoder = new GClientGeocoder();
+
+	function showLocation(point){
+		var parts=point.split(";");
+		var lat = parseFloat( parts[0] );
+	    var lon = parseFloat( parts[1] );
+		lat = lat.toFixed(6);
+		lon = lon.toFixed(6);
+		var point=new GLatLng(lat,lon);
+		eagmap.checkResize();
+		eagmap.setCenter(point);
+		eagmap.setZoom(parseInt(parts[2]));
+
+	}
+		
+	function addPoint(point, text){
+		var parts=point.split(";");
+		var lat = parseFloat( parts[0] );
+	    var lon = parseFloat( parts[1] );
+		lat = lat.toFixed(6);
+		lon = lon.toFixed(6);
+		var point=new GLatLng(lat,lon);
+		var marker = new GMarker(point);
+		eagmap.checkResize();
+		eagmap.addOverlay(marker);
+		if(text){
+			GEvent.addListener(marker, 'click',function(){
+				marker.openInfoWindowHtml(text);			
+			});
+			
+		}
+		
+		
+	
+	}
+	function GMapload() {
+		if (GBrowserIsCompatible()&&!eagmap) {
+			eaGMapBeforeLoad();
+			eagmap = new GMap2(document.getElementById("gmap"));
+		    eagmap.setCenter(new GLatLng(0,0), 10);
+			eagmap.addControl(new GLargeMapControl());
+			eagmap.setMapType(G_HYBRID_MAP);
+			eagmap.addControl(new GMapTypeControl());
+			//addPoint("$point");
+			fixView();
+			showLocation("45.427371;13.535156;9");
+			eaGMapAfterLoad();
+    	}
+    }
+
+function fixView(){
+	eagmap.savePosition();
+	eagmap.checkResize();
+	eagmap.returnToSavedPosition();
+	setTimeout('fixView()',1500);
+}
+
+	if (window.addEventListener) //DOM method for binding an event
+	{
+		window.addEventListener("unload", GUnload, false);
+		window.addEventListener("load", GMapload, false);
+	}
+	else if (window.attachEvent) //IE exclusive method for binding an event
+	{
+		window.attachEvent("onunload", GUnload);
+		window.attachEvent("onload", GMapload);
+	}	
+//]]>
+</script>
+<script type="text/javascript">
+		
+		function eaGMapBeforeLoad(){;}
+		function eaGMapAfterLoad(){
+					addPoint("45.427371;13.535156;9","Camping Park Umag");
+				}
+		</script>
+<style type="text/css">
+				a#eafooter {-moz-opacity: .4 ;	}
+				a#eafooter:hover {	-moz-opacity: 1 ;}
+				</style>
+<base href="http://www.kroatie-vakantie.eu/" />
+	<link rel="shortcut icon" href="http://www.kroatie-vakantie.eu/images/favicon.ico" />
+	
+<meta http-equiv="Content-Type" content="text/html;>charset=iso-8859-1" />
+
+
+<link rel="stylesheet" href="http://www.kroatie-vakantie.eu/templates/kroatie-vakantie/css/template_css.css" type="text/css"/><link rel="shortcut icon" href="http://www.kroatie-vakantie.eu/templates/kroatie-vakantie/favicon.ico" />
+<link rel="alternate" title="kroatie-vakantie" href="http://www.kroatie-vakantie.eu/index2.php?option=com_rss&no_html=1" type="application/rss+xml" />
+
+<script language="JavaScript" type="text/javascript">
+
+    <!--
+
+    function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+
+      if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+
+        document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+
+      else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+
+    }
+
+    MM_reloadPage(true);
+
+    //-->
+
+  </script>
+
+
+
+<meta name="verify-v1" content="Fea+jA2AYmxjPdQm+GURRl9vqyrEzAFSAcFozNdDG4A=" />
+
+
+
+
+
+</head>
+
+
+
+<body topmargin="0" bottommargin="0">
+
+
+
+
+
+
+
+<div>
+
+  <a name="up" id="up"></a>
+
+  <table width="900" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
+
+    
+
+    <tr>
+
+      <td><div class="background">
+
+        <table width="100%"  border="0" cellpadding="0" cellspacing="0" background="http://www.kroatie-vakantie.eu/templates/kroatie-vakantie/images/center.jpg">
+
+          <tr>
+            <td class="title">              <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+
+              <tr>
+
+                <td height="100" colspan="2" class="title" style="padding-top:14px;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+                    <tr>
+
+                      <td width="100%" style="padding-left:10px;"> 
+<a href="http://www.kroatie-vakantie.eu" title="kroatie-vakantie "> 
+
+kroatie-vakantie </a></td>   
+      
+
+<td> 
+
+ <a href="http://www.kroatie-vakantie.eu/banners/click4.html" target="_blank"><img src="http://www.kroatie-vakantie.eu/images/banners/logo7.jpg" border="0" alt="Advertisement" /></a>
+</td>
+                 </tr>
+
+                </table></td>
+
+              </tr>
+
+              <tr>
+
+                <td width="100%" height="29" valign="bottom" class="mainlevel-nav">		<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				<ul id="mainlevel-nav"><li><a href="http://www.kroatie-vakantie.eu/Contact/" class="mainlevel-nav" >Contact</a></li><li><a href="http://www.kroatie-vakantie.eu/component/option,com_samsitemap/Itemid,173/" class="mainlevel-nav" >Sitemap</a></li><li><a href="http://www.kroatie-vakantie.eu/component/option,com_google_maps/Itemid,290/" class="mainlevel-nav" >GoogleMap</a></li><li><a href="http://www.kroatie-vakantie.eu/Links.html" class="mainlevel-nav" >Links</a></li><li><a href="http://www.kroatie-vakantie.eu/component/option,com_zoom/Itemid,147/" class="mainlevel-nav" >Foto's</a></li><li><a href="http://www.kroatie-vakantie.eu/Videos.html" class="mainlevel-nav" >Videos</a></li><li><a href="http://www.kroatie-vakantie.eu/component/option,com_jambook/Itemid,280/" class="mainlevel-nav" >Gastenboek</a></li><li><a href="http://www.kroatie-vakantie.eu/Forum.html" class="mainlevel-nav" >Forum</a></li><li><a href="http://www.kroatie-vakantie.eu/component/option,com_estateagent/Itemid,303/" class="mainlevel-nav" id="active_menu-nav">Accommodatie</a></li></ul>			</td>
+		</tr>
+		</table>
+		</td>
+
+              </tr>
+
+            </table></td>
+
+            </tr>
+
+        </table>
+
+        <table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td height="25" bgcolor="#ECEAD8" style="border-bottom: 1px solid #BCB778; border-top: 1px solid #FFFFFF;"><span class="pathway"><a href="http://www.kroatie-vakantie.eu/" class="pathway">Home</a> <img src="http://www.kroatie-vakantie.eu/images/M_images/arrow.png" alt="arrow" /> <a href="http://www.kroatie-vakantie.eu/component/option,com_estateagent/Itemid,303/" class="pathway">Accommodatie</a> <img src="http://www.kroatie-vakantie.eu/images/M_images/arrow.png" alt="arrow" /> <a href='http://www.kroatie-vakantie.eu/component/option,com_estateagent/Itemid,303/act,cat/task,showCE/id,1/' class="pathway" >Kroatie</a><img src="http://www.kroatie-vakantie.eu/images/M_images/arrow.png" alt="arrow" /> <a href='http://www.kroatie-vakantie.eu/component/option,com_estateagent/Itemid,303/act,cat/task,showCE/id,6/' class="pathway" >Campings</a><img src="http://www.kroatie-vakantie.eu/images/M_images/arrow.png" alt="arrow" /> <a href='http://www.kroatie-vakantie.eu/component/option,com_estateagent/Itemid,303/act,cat/task,showCE/id,18/' class="pathway" >Istrie</a><img src="http://www.kroatie-vakantie.eu/images/M_images/arrow.png" alt="arrow" /> <a href='http://www.kroatie-vakantie.eu/component/option,com_estateagent/Itemid,303/act,cat/task,showCE/id,77/' class="pathway" >Umag</a><img src="http://www.kroatie-vakantie.eu/images/M_images/arrow.png" alt="arrow" /> Camping Park Umag</span></td>
+
+            <td height="25" align="right" bgcolor="#ECEAD8" style="border-bottom: 1px solid #BCB778; border-top: 1px solid #FFFFFF;">
+			<div class="date"> maandag 13 oktober 2008 </div></td>
+
+            </tr>
+
+        </table>
+
+        <table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td valign="top" style="background-repeat: repeat-y;"background="http://www.kroatie-vakantie.eu/templates/kroatie-vakantie/images/lb.gif">
+              <div class="leftrow">
+
+                		<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Hoofd Menu				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/" class="mainlevel" >Home</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Steden-Kroatie.html" class="mainlevel" >Steden</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Eilanden-Kroatie.html" class="mainlevel" >Eilanden</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Nationale-parken.html" class="mainlevel" >Nationale parken</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Natuurparken.html" class="mainlevel" >Natuurparken</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Klimaat-Zon-Zee.html" class="mainlevel" >Klimaat</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Reizen-Route-naar-Kroatie.html" class="mainlevel" >Reizen-Route</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Campings-Kroatie.html" class="mainlevel" >Campings</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Watersport.html" class="mainlevel" >Watersport</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Nederlands-Kroatisch-Woordenboek-Taalgids.html" class="mainlevel" >Taal</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Musea-in-Kroatie.html" class="mainlevel" >Musea</a></td></tr>
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Kroatisch-Geld-Kuna.html" class="mainlevel" >Kroatisch Geld</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					User Menu				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.kroatie-vakantie.eu/Help.html" class="mainlevel" >Help</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Random Image				</th>
+			</tr>
+					<tr>
+			<td>
 					 	<div align="center">
 		 			 	<img src="http://www.kroatie-vakantie.eu/images/stories/Related//img_1077.jpg" border="0" width="168" height="126" alt="img_1077.jpg" /><br />
 		 		 	</div>
