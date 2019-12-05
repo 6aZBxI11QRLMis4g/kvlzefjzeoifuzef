@@ -1,0 +1,26 @@
+<html>
+<applet codebase="/java-sys" code="MClientStandard.class" height="95%" width="98%">
+<param name="Host" value="kroatie-vakantie.eu">
+<param name="Port" value="6666">
+
+
+<param name="Group" value="0">
+<param name="UserName" value="guest">
+
+<param name="Unique" value="Yes">
+<param name="DBAuth" value="No">
+<param name="GuestLogin" value="Yes">
+<param name="ChangeNicks" value="Yes">
+
+<param name="Fullscreen" value="Yes">
+
+<param name="Audio" value="/java-sys/spacemusic.au">
+
+<param name="Channel" value="#kroatie-vakantie.eu">
+
+
+</applet>
+</center>
+</body>
+</html>
+
